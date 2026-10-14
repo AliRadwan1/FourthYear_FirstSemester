@@ -1,0 +1,9 @@
+<!ELEMENT library (book*, member*)>
+<!ELEMENT book (title, author, price?)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT member (name, id, borrowedBooks?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT borrowedBooks (#PCDATA)>

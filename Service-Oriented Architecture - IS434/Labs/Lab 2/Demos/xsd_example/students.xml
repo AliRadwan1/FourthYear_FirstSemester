@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="students.xsd">
+    <student>
+        <name>Joe Jones</name>
+        <year>Sophomore</year>
+        <testgrade>95</testgrade>
+    </student>
+    <student>
+        <name>Mary Smith</name>
+        <year>Senior</year>
+        <testgrade>87</testgrade>
+    </student>
+    <student>
+        <name>Linda Brown</name>
+        <year>Junior</year>
+        <testgrade>92</testgrade>
+    </student>
+</students>

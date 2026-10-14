@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="library.xsd">
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <price>10.99</price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>8.50</price>
+    </book>
+    <member>
+        <name>Alice Johnson</name>
+        <id>1001</id>
+        <borrowedBooks>3</borrowedBooks>
+    </member>
+    <member>
+        <name>Bob Smith</name>
+        <id>1002</id>
+        <!-- borrowedBooks is optional and omitted here -->
+    </member>
+</library>
