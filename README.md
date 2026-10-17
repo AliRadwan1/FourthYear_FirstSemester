@@ -12,7 +12,7 @@ The repository is organized into subject-based folders for easy navigation:
 - **📁 Machine Learning - CS467.**
 - **📁 Service-Oriented Architecture - IS434.**
 - **📁 Geographical Information Systems - IS443.**
-- **📁 Selected Topics in Database.**
+- **📁 Selected Topics in Database - IS418.**
 
 ---
 
